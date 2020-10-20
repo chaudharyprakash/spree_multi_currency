@@ -35,7 +35,7 @@ gem 'spree_multi_currency', github: 'spree-contrib/spree_multi_currency'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'spree', '~> 3.7.0'
+gem 'spree', '~> 3.7.11'
 gem 'spree_auth_devise', '~> 3.5'
 gem 'spree_gateway', '~> 3.4'
 gem 'bootsnap', '>= 1.1.0', require: false
